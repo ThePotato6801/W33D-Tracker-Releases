@@ -8,6 +8,10 @@ Open [Releases](https://github.com/ThePotato6801/W33D-Tracker-Releases/releases)
 
 GitHub's automatic **Source code** ZIP is not the application.
 
+## Auto-start (v1.9.10 and newer)
+
+Open **Settings** inside the EXE. Choose **Open tracker when WARDOGS starts**, then click **Save settings**. Turn it off in the same window. The choice survives Windows restarts; no separate auto-start BAT files are needed. If you move the app, save Settings again from the new location.
+
 ## Updates
 
 In v1.9.9 and newer, click **Check for updates**, review the version, then choose **Download and restart**. Close the separate staff sign-in window first. Downloads and installation require your confirmation. Saved history, preferences and staff sessions remain on your PC.
