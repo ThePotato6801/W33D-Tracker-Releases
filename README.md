@@ -14,6 +14,8 @@ In v1.9.9 and newer, click **Check for updates**, review the version, then choos
 
 ## Publishing status
 
-The public release channel is being connected. Until the first release appears, the app will explain that no public release is available.
+The public release channel is active. [Download the latest Windows application](https://github.com/ThePotato6801/W33D-Tracker-Releases/releases/latest).
+
+No GitHub account, access token, Python installation, or build script is needed to use the application or download updates. The publishing credential stays in the private source repository's GitHub Actions secrets and is not included in the app.
 
 Only application downloads belong here. Do not upload local history databases, login sessions, browser profiles or credentials.
